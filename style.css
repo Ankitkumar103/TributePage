@@ -1,0 +1,62 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    margin-bottom: 25px;
+}
+
+#main {
+    text-align: left;
+}
+
+#title {
+    text-align: center;
+    font-size: 45px;
+}
+
+#quote {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+#img-div {
+    margin: auto;
+}
+
+img {
+    display: block;
+}
+
+#image {
+    width: 60%;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#headline {
+    margin-left: 25px;
+}
+
+#margin {
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+#margin1 {
+    margin-left: 40px;
+}
+
+a {
+    color: rgb(70, 70, 238);
+    text-decoration: none;
+    font-size: 19px;
+}
+
+a:hover {
+    color: rgb(201, 38, 38);
+}
